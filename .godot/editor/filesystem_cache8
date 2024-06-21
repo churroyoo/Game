@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1719005488
+README.md::TextFile::-1::1719005274::0::1::::<><>::
+::res://Resources/::1719005342
+DefaultMovementData.tres::Resource/PlayerMovementData::1217696242073370095::1719003795::0::1::::<><>::res://PlayerMovementData.gd
+::res://Scenes/::1719005307
+Character.tscn::PackedScene::7569982811005594918::1719005307::0::1::::<><>::res://Scripts/Character.gd<>uid://rl4jq0wcvamp::::res://DefaultMovementData.tres<>uid://gpqgifubrok0::::res://Sprites/Character.png
+Game.gd::GDScript::-1::1718759498::0::1::::<>Node2D<>::
+Game.tscn::PackedScene::3490494533144305342::1719004574::0::1::::<><>::uid://df37rmu087ly1::::res://Scenes/Character.tscn<>res://Scenes/Game.gd
+::res://Scripts/::1719005337
+Character.gd::GDScript::-1::1719004415::0::1::::<>CharacterBody2D<>::
+PlayerMovementData.gd::GDScript::-1::1719003633::0::1::::PlayerMovementData<>Resource<>::
+::res://Sprites/::1718758007
+Character.png::CompressedTexture2D::453081343608336509::1718758005::1719005488::1::::<><>::
