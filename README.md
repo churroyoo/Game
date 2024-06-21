@@ -1,2 +1,2 @@
 # Game
-Making my own game on Godot 4
+Making a game on Godot.
